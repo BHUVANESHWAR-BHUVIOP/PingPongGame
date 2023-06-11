@@ -1,4 +1,4 @@
-##EX NO 3 PingPongGame
+## EX NO 3 PingPongGame
 
 ## Aim:
 To develop a ping pong game using C# program in unity.
